@@ -1,4 +1,4 @@
-# 💫 Calculadora IMC | Desenvolvido por Chrys Penalber
+# <img width="34" height="34" src="https://img.icons8.com/external-isometric-vectorslab/68/external-Calculator-business-isometric-vectorslab.png" alt="external-Calculator-business-isometric-vectorslab"/> Calculadora IMC | Desenvolvido por Chrys Penalber
 
 Este projeto é uma **calculadora interativa de IMC (Índice de Massa Corporal)** desenvolvida com **HTML, CSS e JavaScript**.
 A aplicação permite que o usuário insira peso e altura para calcular automaticamente o IMC e exibir sua classificação de acordo com as faixas recomendadas pela OMS.
@@ -9,8 +9,11 @@ A aplicação permite que o usuário insira peso e altura para calcular automati
 
 ![Screenshot da Calculadora IMC](./screenshot-calculadora-imc.png)
 
+
 🔗 Links
+
 🔴 [Live Site](https://chryspenalber.github.io/tarefa-4/)
+
 💻 [Repositório no GitHub](https://github.com/chryspenalber/tarefa-4)
 
 ---
