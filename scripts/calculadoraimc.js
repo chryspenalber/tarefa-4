@@ -11,7 +11,7 @@ function calculaIMC() {
 
     //saída
 
-    document.getElementById("resultado").textContent = "Seu IMC é: " + valorIMC;
+    document.getElementById("resultado").textContent = "Seu IMC é: " + valorIMC.toFixed(2);
 
     if (valorIMC < 18.5) {
         document.getElementById("classificacao").textContent = "Classificação: Abaixo do peso";
